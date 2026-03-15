@@ -3,3 +3,5 @@
 Ce projet contient des ressources utiles pour les nouveaux développeurs.
 
 Rinas Khalil
+Khalil Rinas
+
